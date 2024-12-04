@@ -1,0 +1,17 @@
+
+
+<__main__.Product object at 0x0000021D230C7D00>
+<__main__.Product object at 0x0000021D230C7640>
+<__main__.Product object at 0x0000021D230C7220>
+None
+None
+None
+Название : Potato , вес: 50.5 , категория продукта : Vegetables
+Название : Spaghetti , вес: 3.4 , категория продукта : Groceries
+Название : Potato , вес: 5.5 , категория продукта : Vegetables
+<__main__.Product object at 0x000001AD4AF37D00>
+<__main__.Product object at 0x000001AD4AF37640>
+<__main__.Product object at 0x000001AD4AF37220>
+<__main__.Product object at 0x00000176ECB27D60>
+<__main__.Product object at 0x00000176ECB27D00>
+<__main__.Product object at 0x00000176ECB27CA0>
